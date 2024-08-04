@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Neel Satdive</h1>
-<h3 align="center">A passionate Frontend Developer and Web Designer</h3>
+<h1 align="center">Hello there 👋, I'm Neel Satdive</h1>
+<h3 align="center">Frontend Developer and Web Designer</h3>
 <image align="right" alt="Chillin"  height="300" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 
