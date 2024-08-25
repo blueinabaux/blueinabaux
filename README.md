@@ -2,6 +2,7 @@
 <h1 align="center">Hello there 👋, I'm Neel Satdive</h1>
 <h3 align="center">Frontend Developer and Web Designer</h3>
 <image align="right" alt="Chillin"  height="300" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<image height="300" width="800" src="https://www.canva.com/design/DAGNcz9zrWQ/OXWhzQugRynohqLFQu7o7w/watch?utm_content=DAGNcz9zrWQ&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueinabaux&label=Profile%20views&color=0e75b6&style=flat" alt="blueinabaux" /> </p>
