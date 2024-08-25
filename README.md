@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello there 👋, I'm Neel Satdive</h1>
 <h3 align="center">Frontend Developer and Web Designer</h3>
-<image align="center" alt="Chillin"  height="300" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<image align="right" alt="Chillin"  height="300" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueinabaux&label=Profile%20views&color=0e75b6&style=flat" alt="blueinabaux" /> </p>
 
